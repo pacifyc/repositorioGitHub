@@ -8,16 +8,16 @@
 
 
 
-> 01. - **Lista todos os arquivos do diretório.**
+> 01. - **Lista todos os arquivos do diretório.** ⌨️
 
 ~~~bash
-$ ls
+$ ls    💻
 ~~~
 
 
-> 02. - **Lista todos os arquivos do diretório incluindo os arquivos ocultos.**
+> 02. - **Lista todos os arquivos do diretório incluindo os arquivos ocultos.** ⌨️
 
 ~~~bash
-$ `rgb(9, 105, 218)`ls -a
+$ ls -a   💻
 ~~~
  
