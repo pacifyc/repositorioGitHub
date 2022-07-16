@@ -1,3 +1,3 @@
 # repositorioGitHub
-![teste](https://github.com/pacifyc/repositorioGitHub/assets/santander.gif)
+![teste](repositorioGitHub/assets/santander.gif)
  
