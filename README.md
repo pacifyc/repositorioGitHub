@@ -3,5 +3,5 @@
 ## Objetivo
 
 
-![teste](repositorioGitHub/assets/santander.gif)
+![teste](https://github.com/pacifyc/repositorioGitHub/blob/main/assets/santander.gif)
  
