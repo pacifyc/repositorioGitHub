@@ -15,4 +15,18 @@ $ cmd
 $ cmd
 
 ```
+
+~~~bash
+
+## 01. - Lista todos os arquivos do diretório.
+
+$ ls
+
+
+
+## 02. - Lista todos os arquivos do diretório incluindo os arquivos ocultos.
+
+$ ls -a
+
+~~~
  
