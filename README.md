@@ -6,7 +6,7 @@
 
 #### - Este projeto do Bootcamp Santander têm como objetivo colocar em pratica o conhecimento adquirido no curso de Github.
 
-'''bash
+```bash
 
 ### teste
 $ cmd
@@ -14,5 +14,5 @@ $ cmd
 ### teste
 $ cmd
 
-'''
+```
  
