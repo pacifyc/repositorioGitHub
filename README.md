@@ -6,10 +6,10 @@
 ## 🌐 Objetivo 💻
 
 ### - Este projeto do Bootcamp Santander têm como objetivo colocar em pratica o conhecimento adquirido no curso de Github.
->
->
 
--_____________________________________________________________________________________________________________________-
+>**______________________________________________________________________________________________________________________**
+>______________________________________________________________________________________________________________________
+
 
 > 01. - **Lista todos os arquivos do diretório.** ⌨️
 
@@ -32,7 +32,7 @@ $ clear    💻
 > 04. - **Criar diretório.** ⌨️
 
 ~~~bash
-$ mkdir Comandos_GitHub    💻
+$ mkdir Comandos_GitHub :closed_lock_with_key:   💻
 ~~~
 
 > 05. - **Listar arquivos para verificar se foi criado o diretório.** ⌨️
