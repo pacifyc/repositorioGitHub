@@ -5,9 +5,8 @@
 
 ## 🌐 Objetivo 💻
 
-### - Este projeto do Bootcamp Santander têm como objetivo colocar em pratica o conhecimento adquirido no curso de Github.
+### - Este projeto do Bootcamp Santander têm :closed_lock_with_key: como objetivo colocar em pratica o conhecimento adquirido no curso de Github.
 
->**______________________________________________________________________________________________________________________**
 >______________________________________________________________________________________________________________________
 
 
@@ -32,7 +31,7 @@ $ clear    💻
 > 04. - **Criar diretório.** ⌨️
 
 ~~~bash
-$ mkdir Comandos_GitHub :closed_lock_with_key:   💻
+$ mkdir Comandos_GitHub    💻
 ~~~
 
 > 05. - **Listar arquivos para verificar se foi criado o diretório.** ⌨️
