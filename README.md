@@ -45,3 +45,15 @@ $ ls    💻
 ~~~bash
 $ cd Comandos_GitHub    💻
 ~~~
+
+> 07. - **Iniciar o Git dentro da pasta criada (Diretório)  para gerenciar e versionar o codigo.** ⌨️
+
+~~~bash
+$ git init    💻
+~~~
+
+> 08. - **Verifiicar se a pasta oculta [ .git ] foi criada referente ao comando [git init]** ⌨️
+
+~~~bash
+$ ls -a    💻
+~~~
